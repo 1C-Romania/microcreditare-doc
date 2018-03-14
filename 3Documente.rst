@@ -149,48 +149,6 @@ notei contabile.
 Cu alte cuvinte, operațiunea de acordare a creditului se închide cu
 plata acestuia prin extrasul de cont.
 
-.. |image0| image:: media/image1.png
-:width: 3.43346in
-:height: 1.29252in
-.. |image1| image:: media/image2.png
-:width: 6.50494in
-:height: 4.44792in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 53.png| image:: media/image3.png
-:width: 6.8125in
-:height: 4.22102in
-.. |image3| image:: media/image4.png
-:width: 7.14583in
-:height: 4.30659in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 43.png| image:: media/image5.png
-:width: 5.22917in
-:height: 4.01042in
-.. |image5| image:: media/image6.png
-:width: 6.29167in
-:height: 3.73958in
-.. |image6| image:: media/image7.png
-:width: 5.48958in
-:height: 3.90495in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 5.png| image:: media/image8.png
-:width: 6.20885in
-:height: 3.61739in
-.. |image8| image:: media/image9.png
-:width: 4.99587in
-:height: 1.30435in
-.. |image9| image:: media/image10.png
-:width: 6.30208in
-:height: 3.69792in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 46.png| image:: media/image11.png
-:width: 6.3in
-:height: 3.85157in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 47.png| image:: media/image12.png
-:width: 3.22917in
-:height: 3.15625in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 9.png| image:: media/image13.png
-:width: 6.23206in
-:height: 3.33333in
-.. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 10.png| image:: media/image14.png
-:width: 4.52174in
-:height: 1.65741in
 .. |C:UsersCristinaBulatDesktopPoze MicrofinantareImage 11.png| image:: media/image15.png
 :width: 3.85217in
 :height: 1.74889in
