@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = microcreditare-doc
 SOURCEDIR     = .
-BUILDDIR      = _build
+BUILDDIR      = /var/www/html/microcreditare-doc
 
 # Put it first so that "make" without argument is like "make help".
 help:
